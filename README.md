@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/stackaditi/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/stackaditi/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0704-binary-search](https://github.com/stackaditi/leetcode/tree/main/0704-binary-search/) | Easy |
+| [0735-asteroid-collision](https://github.com/stackaditi/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/stackaditi/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/stackaditi/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0735-asteroid-collision](https://github.com/stackaditi/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,4 +84,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/stackaditi/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/stackaditi/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 <!---LeetCode Topics End-->
