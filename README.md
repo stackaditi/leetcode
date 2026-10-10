@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/stackaditi/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/stackaditi/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/stackaditi/leetcode/tree/main/0162-find-peak-element/) | Medium |
+| [0169-majority-element](https://github.com/stackaditi/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/stackaditi/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/stackaditi/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/stackaditi/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/stackaditi/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/stackaditi/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/stackaditi/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/stackaditi/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/stackaditi/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/stackaditi/leetcode/tree/main/0455-assign-cookies/) | Easy |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0141-linked-list-cycle](https://github.com/stackaditi/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/stackaditi/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0169-majority-element](https://github.com/stackaditi/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/stackaditi/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/stackaditi/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Math
@@ -133,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/stackaditi/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/stackaditi/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 |  |
@@ -145,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/stackaditi/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/stackaditi/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Quickselect
 |  |
@@ -174,4 +179,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/stackaditi/leetcode/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/stackaditi/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
