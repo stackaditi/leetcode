@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/stackaditi/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/stackaditi/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/stackaditi/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/stackaditi/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/stackaditi/leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/stackaditi/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/stackaditi/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/stackaditi/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/stackaditi/leetcode/tree/main/0735-asteroid-collision/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/stackaditi/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Monotonic Stack
 |  |
 | ------- |
