@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/stackaditi/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/stackaditi/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/stackaditi/leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/stackaditi/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/stackaditi/leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/stackaditi/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/stackaditi/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/stackaditi/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/stackaditi/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/stackaditi/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/stackaditi/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -195,4 +197,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/stackaditi/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/stackaditi/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
