@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/stackaditi/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/stackaditi/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/stackaditi/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0048-rotate-image](https://github.com/stackaditi/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/stackaditi/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/stackaditi/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/stackaditi/leetcode/tree/master/0075-sort-colors) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/stackaditi/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0048-rotate-image](https://github.com/stackaditi/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/stackaditi/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -200,5 +202,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/stackaditi/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/stackaditi/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
