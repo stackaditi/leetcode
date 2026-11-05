@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/stackaditi/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0518-coin-change-ii](https://github.com/stackaditi/leetcode/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/stackaditi/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/stackaditi/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/stackaditi/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/stackaditi/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/stackaditi/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/stackaditi/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/stackaditi/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/stackaditi/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/stackaditi/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,4 +206,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/stackaditi/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/stackaditi/leetcode/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/stackaditi/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
