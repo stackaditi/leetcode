@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/stackaditi/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/stackaditi/leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/stackaditi/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/stackaditi/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/stackaditi/leetcode/tree/main/0035-search-insert-position/) | Easy |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/stackaditi/leetcode/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/stackaditi/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/stackaditi/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/stackaditi/leetcode/tree/master/0169-majority-element) |
@@ -66,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/stackaditi/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/stackaditi/leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/stackaditi/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/stackaditi/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/stackaditi/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
