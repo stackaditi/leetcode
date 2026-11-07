@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/stackaditi/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/stackaditi/leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/stackaditi/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/stackaditi/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/stackaditi/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/stackaditi/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/stackaditi/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/stackaditi/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/stackaditi/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/stackaditi/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/stackaditi/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/stackaditi/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/stackaditi/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/stackaditi/leetcode/tree/main/0455-assign-cookies/) | Easy |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/stackaditi/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/stackaditi/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/stackaditi/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/stackaditi/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/stackaditi/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/stackaditi/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/stackaditi/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -169,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/stackaditi/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/stackaditi/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/stackaditi/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -202,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/stackaditi/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/stackaditi/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
